@@ -90,19 +90,18 @@ The dataset includes **221,396** cellular datapoints and **570,803** Wi-Fi beaco
 
 If you use this dataset or findings in your research, please cite:
 ```bibtex
-@inproceedings{palathinkal2025indoor,
-  title={Indoor Sharing in the Mid-Band: A Testbed Evaluation of Neutral-Host, Cellular Macro \& Wi-Fi},
+@article{palathinkal2025indoor,
+  title={Indoor Sharing in the Mid-Band: A Performance Study of Neutral-Host, Cellular Macro, and Wi-Fi},
   author={Palathinkal, Joshua Roy and Rochman, Muhammad Iqbal and Sathya, Vanlin and Yavuz, Mehmet and Ghosh, Monisha},
-  booktitle={2025 IEEE Consumer Communications \& Networking Conference (CCNC)},
-  year={2025},
-  organization={IEEE}
+  journal={arXiv preprint arXiv:2506.04974},
+  year={2025}
 }
 ```
 
 ## Related Work
 
 This work extends our previous analysis:
-- M. I. Rochman et al., "Neutral-hosts in the shared mid-bands: Addressing indoor cellular performance," arXiv:2505.18360, 2025.
+- [M. I. Rochman et al., "Neutral-hosts in the shared mid-bands: Addressing indoor cellular performance," *IEEE DySPAN*, 2025.](https://ieeexplore.ieee.org/document/11115898)
 
 ## Authors
 
@@ -115,7 +114,7 @@ This work extends our previous analysis:
 ## Contact
 
 For questions or collaboration inquiries:
-- Email: jpalathi@nd.edu, mrochman@nd.edu, mghosh3@nd.edu
+- Email: jpalathi@nd.edu
 
 ## Acknowledgments
 
