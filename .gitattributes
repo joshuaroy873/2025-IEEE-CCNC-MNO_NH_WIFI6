@@ -1,3 +1,0 @@
-data/*.csv filter=lfs diff=lfs merge=lfs -text
-data/sigcap_wifi_in_nonload.csv filter=lfs diff=lfs merge=lfs -text
-data/sigcap-allwifidump.csv filter=lfs diff=lfs merge=lfs -text
