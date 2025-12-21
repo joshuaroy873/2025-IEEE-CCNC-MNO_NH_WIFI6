@@ -45,23 +45,10 @@ The dataset includes **221,396** cellular datapoints and **570,803** Wi-Fi beaco
 ```
 .
 ├── data/
-│   ├── cellular/          # QualiPoc measurements
-│   │   ├── radio_reports/
-│   │   ├── throughput/
-│   │   └── application_layer/
-│   ├── wifi/              # SigCap measurements
-│   │   └── beacon_data/
-│   └── metadata.json      # Deployment configuration details
-├── scripts/
-│   ├── data_processing/   # Data cleaning and preprocessing
-│   ├── analysis/          # Analysis scripts for figures
-│   └── visualization/     # Plotting utilities
-├── figures/               # Generated figures from the paper
-├── docs/
-│   ├── measurement_methodology.md
-│   └── deployment_parameters.md
-├── paper/
-│   └── 2025_IEEE_CCNC_NH_Arkansas.pdf
+│   ├── qualipoc/   # QualiPoc measurements
+│   └── sigcap/     # SigCap measurements
+├── ipynb/          # IPYNB notebooks used for analysis
+├── 2025_IEEE_CCNC_NH_Arkansas.pdf
 ├── LICENSE
 └── README.md
 ```
@@ -114,7 +101,7 @@ This work extends our previous analysis:
 ## Contact
 
 For questions or collaboration inquiries:
-- Email: jpalathi@nd.edu
+- Email: joshuaroy873@gmail.com
 
 ## Acknowledgments
 
