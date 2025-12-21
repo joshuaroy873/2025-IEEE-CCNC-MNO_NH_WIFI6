@@ -48,7 +48,7 @@ The dataset includes **221,396** cellular datapoints and **570,803** Wi-Fi beaco
 │   ├── qualipoc/   # QualiPoc measurements
 │   └── sigcap/     # SigCap measurements
 ├── ipynb/          # IPYNB notebooks used for analysis
-├── 2025_IEEE_CCNC_NH_Arkansas.pdf
+├── 2025_IEEE_CCNC_MNO_NH_WIFI6.pdf
 ├── LICENSE
 └── README.md
 ```
