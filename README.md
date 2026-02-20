@@ -77,11 +77,13 @@ The dataset includes **221,396** cellular datapoints and **570,803** Wi-Fi beaco
 
 If you use this dataset or findings in your research, please cite:
 ```bibtex
-@article{palathinkal2025indoor,
-  title={Indoor Sharing in the Mid-Band: A Performance Study of Neutral-Host, Cellular Macro, and Wi-Fi},
+@inproceedings{palathinkal2026indoor,
+  title={Indoor Sharing in the Mid-Band: A Testbed Evaluation of Neutral-Host, Cellular Macro \& Wi-Fi},
   author={Palathinkal, Joshua Roy and Rochman, Muhammad Iqbal and Sathya, Vanlin and Yavuz, Mehmet and Ghosh, Monisha},
-  journal={arXiv preprint arXiv:2506.04974},
-  year={2025}
+  booktitle={2026 IEEE 23rd Consumer Communications \& Networking Conference (CCNC)},
+  pages={1--6},
+  year={2026},
+  organization={IEEE}
 }
 ```
 
