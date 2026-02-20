@@ -3,7 +3,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FCCNC-blue)](https://ieeexplore.ieee.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-This repository contains the reproducible dataset and measurement methodology from our IEEE CCNC 2025 paper: **"Indoor Sharing in the Mid-Band: A Testbed Evaluation of Neutral-Host, Cellular Macro & Wi-Fi"**.
+This repository contains the reproducible dataset and measurement methodology from our IEEE CCNC 2025 paper: [**"Indoor Sharing in the Mid-Band: A Testbed Evaluation of Neutral-Host, Cellular Macro & Wi-Fi"**](https://ieeexplore.ieee.org/abstract/document/11366606).
 
 ## Overview
 
