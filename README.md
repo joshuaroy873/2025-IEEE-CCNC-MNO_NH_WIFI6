@@ -22,6 +22,14 @@ The measurements were conducted in a large big-box retail store (~187,000 ft²) 
 - **Application Performance**: NH achieves 5.05× HTTP DL throughput improvement over Wi-Fi despite using only 40 MHz vs. 20 MHz for Wi-Fi
 - **Aggregated Performance**: 2.08× PHY-layer DL throughput gain over 5G macro indoors (40 MHz NH vs. 225 MHz 5G)
 
+## Data
+
+The raw data files are stored in compressed format as `data.tar.gz`. To extract the data:
+```bash
+tar -xzf data.tar.gz
+```
+This extracts to the `_data/` folder, which is in `.gitignore` to prevent accidental commits of the extracted files.
+
 ## Dataset
 
 The dataset includes **221,396** cellular datapoints and **570,803** Wi-Fi beacon measurements across:
@@ -44,10 +52,10 @@ The dataset includes **221,396** cellular datapoints and **570,803** Wi-Fi beaco
 ## Repository Structure
 ```
 .
-├── data/
-│   ├── qualipoc/   # QualiPoc measurements
-│   └── sigcap/     # SigCap measurements
-├── ipynb/          # IPYNB notebooks used for analysis
+├── data.tar.gz         # Compressed data files
+│   ├── qualipoc/       # QualiPoc measurements
+│   └── sigcap/         # SigCap measurements
+├── ipynb/              # IPYNB notebooks used for analysis
 ├── 2025_IEEE_CCNC_MNO_NH_WIFI6.pdf
 ├── LICENSE
 └── README.md
